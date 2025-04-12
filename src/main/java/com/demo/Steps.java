@@ -6,6 +6,6 @@ public class Steps {
     }
 
     public void step2() {
-        System.out.println("Step 2");
+        System.out.println("Step 2. This is the next step!");
     }
 }
