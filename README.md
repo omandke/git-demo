@@ -1,1 +1,2 @@
-# Git Demo Repo with Java and Gradle
+# Repo to understand how to use Git effectively
+# This is a Java Project
